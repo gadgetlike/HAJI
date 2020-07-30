@@ -1,0 +1,2 @@
+# HAJI
+GitHub Pages
